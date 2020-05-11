@@ -4,7 +4,7 @@
   <groupId>net.moneymani</groupId>
   <artifactId>black-knight</artifactId>
   <packaging>war</packaging>
-  <version>2.3</version>
+  <version>2.3-SNAPSHOT</version>
   <name>black-knight Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -22,12 +22,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://moneymani.net:8081/repository/maven-releases//</url>
+            <url>http://http://manikanta.in:8081/repository/maven-releases///</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://moneymani.net:8081/repository/maven-snapshots//</url>
+            <url>http://manikanta.in:8081/repository/maven-snapshots//</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
